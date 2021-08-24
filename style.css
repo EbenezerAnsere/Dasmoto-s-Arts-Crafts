@@ -1,0 +1,55 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: #fff;
+}
+
+.image {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.headline {
+    text-align: center;
+    position: relative;
+    top: 35%;
+    color: rgb(250, 202, 71);
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.state {
+    background-color: rgb(52, 197, 129);
+    height: 50px;
+    font-size: 35px;
+    color: #fff;
+}
+
+span {
+    color: rgb(36, 36, 243);
+    padding: 20px;
+    font-weight: bold;
+}
+
+.state-1 {
+    background-color: rgb(197, 74, 52);
+    height: 50px;
+    font-size: 35px;
+    color: #fff;
+}
+
+.state-2 {
+    background-color: rgb(88, 91, 248);
+    height: 50px;
+    font-size: 35px;
+    color: #fff;
+}
